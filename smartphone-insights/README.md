@@ -22,3 +22,9 @@ To explore the dashboard:
 1. Download the `.pbix` file
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
+## 📌 Author
+
+**Mayada Ali**  
+_Data Analyst | Machine Learning Enthusiast_  
+📫 [LinkedIn](https://www.linkedin.com/in/mayadaali23/) | [Email](mayada.ali.94@gmail.com)
+
