@@ -97,13 +97,6 @@ To build regression models that can accurately estimate **medical insurance cost
 
 ---
 
-## 🚀 Future Work
-
-- Try more advanced models like CatBoost or LightGBM.
-- Perform feature selection/engineering to improve model generalization.
-- Deploy model using Streamlit or Flask as a prediction app.
-
----
 
 ## 🙋‍♀️ Author
 
